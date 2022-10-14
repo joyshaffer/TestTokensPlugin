@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 13 Oct 2022 20:59:33 GMT
+ * Generated on Fri, 14 Oct 2022 18:55:32 GMT
  */
 
 :root {
@@ -8,6 +8,9 @@
   --gux-token-set-order-1: semantic;
   --gux-token-set-order-2: light;
   --gux-token-set-order-3: dark;
+  --gux-default: [object Object];
+  --gux-semantic: [object Object];
+  --gux-light: [object Object];
   --gux-colors-background: #000000;
   --gux-colors-text: #E91E69;
   --gux-colors-objects: #57DCBE;

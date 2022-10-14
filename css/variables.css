@@ -1,0 +1,49 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 13 Oct 2022 20:59:33 GMT
+ */
+
+:root {
+  --gux-token-set-order-0: global;
+  --gux-token-set-order-1: semantic;
+  --gux-token-set-order-2: light;
+  --gux-token-set-order-3: dark;
+  --gux-colors-background: #000000;
+  --gux-colors-text: #E91E69;
+  --gux-colors-objects: #57DCBE;
+  --gux-colors-brand-navy: #23395c;
+  --gux-colors-brand-orange: #ff6529;
+  --gux-colors-status-active: #9bd56c;
+  --gux-colors-blue-20: #315081;
+  --gux-colors-blue-40: #23395c;
+  --gux-colors-blue-60: #152237;
+  --gux-colors-orange-20: #ff8a5c;
+  --gux-colors-orange-40: #ff6529;
+  --gux-colors-orange-60: #f54500;
+  --gux-colors-green-20: #9bd56c;
+  --gux-colors-green-40: #80ca44;
+  --gux-colors-green-60: #68ab30;
+  --gux-spacing-base: 2;
+  --gux-spacing-medium: 16;
+  --gux-border-radius-default: 4;
+  --gux-headers-h1-font-family: Roboto;
+  --gux-headers-h1-font-weight: Medium;
+  --gux-headers-h1-line-height: 32;
+  --gux-headers-h1-font-size: 24;
+  --gux-headers-h2-font-family: Roboto;
+  --gux-headers-h2-font-weight: Light;
+  --gux-headers-h2-line-height: 24;
+  --gux-headers-h2-font-size: 18;
+  --gux-paragraph-large-body-font-family: Roboto;
+  --gux-paragraph-large-body-font-weight: Regular;
+  --gux-paragraph-large-body-line-height: 24;
+  --gux-paragraph-large-body-font-size: 14;
+  --gux-paragraph-body-font-family: Roboto;
+  --gux-paragraph-body-font-weight: Regular;
+  --gux-paragraph-body-line-height: 20;
+  --gux-paragraph-body-font-size: 12;
+  --gux-paragraph-small-body-font-family: Roboto;
+  --gux-paragraph-small-body-font-weight: Regular;
+  --gux-paragraph-small-body-line-height: 16;
+  --gux-paragraph-small-body-font-size: 11;
+}

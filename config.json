@@ -1,0 +1,15 @@
+{
+    "source": ["tokens/**/*.json"],
+    "platforms": {
+      "css": {
+        "transformGroup": "css",
+        "prefix": "gux",
+        "files": [
+          {
+            "destination": "css/variables.css",
+            "format": "css/variables"
+          }
+        ]
+      }
+    }
+  }

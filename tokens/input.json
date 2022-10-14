@@ -1,0 +1,218 @@
+{
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    },
+    "1": {
+      "value": "semantic",
+      "type": "other"
+    },
+    "2": {
+      "value": "light",
+      "type": "other"
+    },
+    "3": {
+      "value": "dark",
+      "type": "other"
+    }
+  },
+  "colors": {
+    "background": {
+      "value": "#000000",
+      "type": "color",
+      "description": "Dark mode background color"
+    },
+    "text": {
+      "value": "#E91E69",
+      "type": "color",
+      "description": "Dark mode text color"
+    },
+    "objects": {
+      "value": "#57DCBE",
+      "type": "color",
+      "description": "Dark mode object color"
+    },
+    "brand": {
+      "navy": {
+        "value": "#23395c",
+        "type": "color",
+        "description": "Brand navy"
+      },
+      "orange": {
+        "value": "#ff6529",
+        "type": "color",
+        "description": "Brand orange"
+      }
+    },
+    "status": {
+      "active": {
+        "value": "#9bd56c",
+        "type": "color",
+        "description": "Active status"
+      }
+    },
+    "blue": {
+      "20": {
+        "value": "#315081",
+        "type": "color",
+        "description": "Blue 20"
+      },
+      "40": {
+        "value": "#23395c",
+        "type": "color",
+        "description": "Blue 40"
+      },
+      "60": {
+        "value": "#152237",
+        "type": "color",
+        "description": "Blue 60"
+      }
+    },
+    "orange": {
+      "20": {
+        "value": "#ff8a5c",
+        "type": "color",
+        "description": "Orange 20"
+      },
+      "40": {
+        "value": "#ff6529",
+        "type": "color",
+        "description": "Orange 40"
+      },
+      "60": {
+        "value": "#f54500",
+        "type": "color",
+        "description": "Orange 60"
+      }
+    },
+    "green": {
+      "20": {
+        "value": "#9bd56c",
+        "type": "color",
+        "description": "Green 20"
+      },
+      "40": {
+        "value": "#80ca44",
+        "type": "color",
+        "description": "Green 40"
+      },
+      "60": {
+        "value": "#68ab30",
+        "type": "color",
+        "description": "Green 60"
+      }
+    }
+  },
+  "spacing": {
+    "base": {
+      "value": 2,
+      "type": "spacing",
+      "description": "Base spacing value"
+    },
+    "medium": {
+      "value": 16,
+      "type": "spacing"
+    }
+  },
+  "border-radius": {
+    "default": {
+      "value": 4,
+      "type": "borderRadius"
+    }
+  },
+  "headers": {
+    "H1": {
+      "fontFamily": {
+        "value": "Roboto",
+        "type": "fontFamily"
+      },
+      "fontWeight": {
+        "value": "Medium",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 32,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 24,
+        "type": "fontSize"
+      }
+    },
+    "H2": {
+      "fontFamily": {
+        "value": "Roboto",
+        "type": "fontFamily"
+      },
+      "fontWeight": {
+        "value": "Light",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 24,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 18,
+        "type": "fontSize"
+      }
+    }
+  },
+  "paragraph": {
+    "largeBody": {
+      "fontFamily": {
+        "value": "Roboto",
+        "type": "fontFamily"
+      },
+      "fontWeight": {
+        "value": "Regular",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 24,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 14,
+        "type": "fontSize"
+      }
+    },
+    "body": {
+      "fontFamily": {
+        "value": "Roboto",
+        "type": "fontFamily"
+      },
+      "fontWeight": {
+        "value": "Regular",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 20,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 12,
+        "type": "fontSize"
+      }
+    },
+    "smallBody": {
+      "fontFamily": {
+        "value": "Roboto",
+        "type": "fontFamily"
+      },
+      "fontWeight": {
+        "value": "Regular",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 16,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 11,
+        "type": "fontSize"
+      }
+    }
+  }
+}

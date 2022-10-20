@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "background": {
+      "value": "#FFFFFF",
+      "type": "color",
+      "description": "Light mode background color"
+    },
+    "objects": {
+      "value": "#FF9CC0",
+      "type": "color",
+      "description": "Light mode object color"
+    },
+    "text": {
+      "value": "#9DE8D7",
+      "type": "color",
+      "description": "Light mode text color"
+    }
+  }
+}

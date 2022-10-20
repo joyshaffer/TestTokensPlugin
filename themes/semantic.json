@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "brand": {
+      "navy": {
+        "value": "{colors.blue.40}",
+        "type": "color",
+        "description": "Brand navy"
+      },
+      "orange": {
+        "value": "{colors.orange.40}",
+        "type": "color",
+        "description": "Brand orange"
+      }
+    },
+    "status": {
+      "active": {
+        "value": "{colors.green.20}",
+        "type": "color",
+        "description": "Active status"
+      }
+    }
+  }
+}

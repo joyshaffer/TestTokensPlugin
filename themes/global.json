@@ -1,0 +1,84 @@
+{
+  "colors": {
+    "blue": {
+      "20": {
+        "value": "hsla(217, 45%, 35%, 1)",
+        "type": "color",
+        "description": "Blue 20"
+      },
+      "40": {
+        "value": "hsla(217, 45%, 25%, 1)",
+        "type": "color",
+        "description": "Blue 40"
+      },
+      "60": {
+        "value": "hsla(217, 45%, 15%, 1)",
+        "type": "color",
+        "description": "Blue 60"
+      }
+    },
+    "orange": {
+      "20": {
+        "value": "hsla(17, 100%, 68%, 1)",
+        "type": "color",
+        "description": "Orange 20"
+      },
+      "40": {
+        "value": "hsla(17, 100%, 58%, 1)",
+        "type": "color",
+        "description": "Orange 40"
+      },
+      "60": {
+        "value": "hsla(17, 100%, 48%, 1)",
+        "type": "color",
+        "description": "Orange 60"
+      }
+    },
+    "green": {
+      "20": {
+        "value": "hsla(93, 56%, 63%, 1)",
+        "type": "color",
+        "description": "Green 20"
+      },
+      "40": {
+        "value": "hsla(93, 56%, 53%, 1)",
+        "type": "color",
+        "description": "Green 40"
+      },
+      "60": {
+        "value": "hsla(93, 56%, 43%, 1)",
+        "type": "color",
+        "description": "Green 60"
+      }
+    }
+  },
+  "spacing": {
+    "base": {
+      "value": "2",
+      "type": "spacing",
+      "description": "Base spacing value"
+    },
+    "medium": {
+      "value": "{spacing.base} * 8",
+      "type": "spacing"
+    }
+  },
+  "border-radius": {
+    "default": {
+      "value": "4",
+      "type": "borderRadius"
+    }
+  },
+  "typography": {
+    "body": {
+      "value": {
+        "fontFamily": "Roboto",
+        "fontWeight": "Regular",
+        "lineHeight": "20",
+        "fontSize": "12"
+      },
+      "type": "typography",
+      "description": "test body font"
+    }
+  }
+}

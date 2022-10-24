@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 14 Oct 2022 18:55:32 GMT
+ * Generated on Mon, 17 Oct 2022 20:35:05 GMT
  */
 
 :root {
@@ -8,9 +8,7 @@
   --gux-token-set-order-1: semantic;
   --gux-token-set-order-2: light;
   --gux-token-set-order-3: dark;
-  --gux-default: [object Object];
   --gux-semantic: [object Object];
-  --gux-light: [object Object];
   --gux-colors-background: #000000;
   --gux-colors-text: #E91E69;
   --gux-colors-objects: #57DCBE;
@@ -29,24 +27,5 @@
   --gux-spacing-base: 2;
   --gux-spacing-medium: 16;
   --gux-border-radius-default: 4;
-  --gux-headers-h1-font-family: Roboto;
-  --gux-headers-h1-font-weight: Medium;
-  --gux-headers-h1-line-height: 32;
-  --gux-headers-h1-font-size: 24;
-  --gux-headers-h2-font-family: Roboto;
-  --gux-headers-h2-font-weight: Light;
-  --gux-headers-h2-line-height: 24;
-  --gux-headers-h2-font-size: 18;
-  --gux-paragraph-large-body-font-family: Roboto;
-  --gux-paragraph-large-body-font-weight: Regular;
-  --gux-paragraph-large-body-line-height: 24;
-  --gux-paragraph-large-body-font-size: 14;
-  --gux-paragraph-body-font-family: Roboto;
-  --gux-paragraph-body-font-weight: Regular;
-  --gux-paragraph-body-line-height: 20;
-  --gux-paragraph-body-font-size: 12;
-  --gux-paragraph-small-body-font-family: Roboto;
-  --gux-paragraph-small-body-font-weight: Regular;
-  --gux-paragraph-small-body-line-height: 16;
-  --gux-paragraph-small-body-font-size: 11;
+  --gux-typography-body: [object Object];
 }

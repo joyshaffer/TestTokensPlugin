@@ -17,35 +17,8 @@
       "type": "other"
     }
   },
-  "Default": {
-    "id": "d878bba915b970affba442b5a4148ac8c5e8f775",
-    "selectedTokenSets": {
-      "global": "enabled",
-      "semantic": "disabled",
-      "light": "disabled",
-      "dark": "disabled"
-    },
-    "$figmaStyleReferences": {
-      "colors.blue.20": "S:1df85958db826e0725817cfccee7527c90792617,",
-      "colors.blue.40": "S:5a28fb53648709aa3d2249e82e3364b8a36345c9,",
-      "colors.blue.60": "S:6c040366258ad26f14cc1510f866bdf91d251bd8,",
-      "colors.orange.20": "S:517efe5dfe999189eea7567a119b0557b0f6e012,",
-      "colors.orange.40": "S:d7a99485ba29a31509b70297d8c0be74551788db,",
-      "colors.orange.60": "S:49b62077ef0241094396f6e09652ef5b662588ef,",
-      "colors.green.20": "S:39e4aa81752331b2c3fba88334db3255ce6ee0e2,",
-      "colors.green.40": "S:6721b9888036aac04a85612a0fe80e565ed8397d,",
-      "colors.green.60": "S:df89938c48d8d3d5a010509d0735bebb9cd34471,",
-      "headers.H1": "S:225b9931c016ca0d9148bfb9f23e691b9bcfee4e,",
-      "headers.H2": "S:a2e20e7d3ede676895a007cae46c22816445b123,",
-      "paragraph.largeBody": "S:5b8f60b9f361a8a4bd34338a177e1567f061d16e,",
-      "paragraph.body": "S:5d82a2e9b774ece1b07ba086f2385bdfca25a1d0,",
-      "paragraph.smallBody": "S:99bd2f2fd762127322134d9ce4bfab600b5f89b8,"
-    },
-    "type": "other",
-    "value": "[object Object]"
-  },
   "Semantic": {
-    "id": "c34f853d149533058f77c29fcfa1ada92a2f7023",
+    "id": "d68d209726b91a48ecfd376666f03d1b9794739b",
     "selectedTokenSets": {
       "global": "enabled",
       "semantic": "enabled",
@@ -65,27 +38,7 @@
       "colors.green.20": "S:39e4aa81752331b2c3fba88334db3255ce6ee0e2,",
       "colors.green.40": "S:6721b9888036aac04a85612a0fe80e565ed8397d,",
       "colors.green.60": "S:df89938c48d8d3d5a010509d0735bebb9cd34471,",
-      "headers.H1": "S:225b9931c016ca0d9148bfb9f23e691b9bcfee4e,",
-      "headers.H2": "S:a2e20e7d3ede676895a007cae46c22816445b123,",
-      "paragraph.largeBody": "S:5b8f60b9f361a8a4bd34338a177e1567f061d16e,",
-      "paragraph.body": "S:5d82a2e9b774ece1b07ba086f2385bdfca25a1d0,",
-      "paragraph.smallBody": "S:99bd2f2fd762127322134d9ce4bfab600b5f89b8,"
-    },
-    "type": "other",
-    "value": "[object Object]"
-  },
-  "Light": {
-    "id": "58f08b62303391396374b76abe687c60014d9ff2",
-    "selectedTokenSets": {
-      "global": "disabled",
-      "semantic": "disabled",
-      "light": "enabled",
-      "dark": "disabled"
-    },
-    "$figmaStyleReferences": {
-      "colors.background": "S:d3a1c446461af945fd4b9a6466d78713310ddcd2,",
-      "colors.objects": "S:68d03df1af693474ab9234a6bdaae250218cbcd5,",
-      "colors.text": "S:c81bea4addcb77425c4d3181f02b413fe2494550,"
+      "typography.body": "S:3f17e0eabf9b9bd7f8989290b6ed314e3a7b2078,"
     },
     "type": "other",
     "value": "[object Object]"
@@ -194,98 +147,16 @@
       "type": "borderRadius"
     }
   },
-  "headers": {
-    "H1": {
-      "fontFamily": {
-        "value": "Roboto",
-        "type": "fontFamily"
-      },
-      "fontWeight": {
-        "value": "Medium",
-        "type": "fontWeight"
-      },
-      "lineHeight": {
-        "value": 32,
-        "type": "lineHeight"
-      },
-      "fontSize": {
-        "value": 24,
-        "type": "fontSize"
-      }
-    },
-    "H2": {
-      "fontFamily": {
-        "value": "Roboto",
-        "type": "fontFamily"
-      },
-      "fontWeight": {
-        "value": "Light",
-        "type": "fontWeight"
-      },
-      "lineHeight": {
-        "value": 24,
-        "type": "lineHeight"
-      },
-      "fontSize": {
-        "value": 18,
-        "type": "fontSize"
-      }
-    }
-  },
-  "paragraph": {
-    "largeBody": {
-      "fontFamily": {
-        "value": "Roboto",
-        "type": "fontFamily"
-      },
-      "fontWeight": {
-        "value": "Regular",
-        "type": "fontWeight"
-      },
-      "lineHeight": {
-        "value": 24,
-        "type": "lineHeight"
-      },
-      "fontSize": {
-        "value": 14,
-        "type": "fontSize"
-      }
-    },
+  "typography": {
     "body": {
-      "fontFamily": {
-        "value": "Roboto",
-        "type": "fontFamily"
+      "value": {
+        "fontFamily": "Roboto",
+        "fontWeight": "Regular",
+        "lineHeight": 20,
+        "fontSize": 12
       },
-      "fontWeight": {
-        "value": "Regular",
-        "type": "fontWeight"
-      },
-      "lineHeight": {
-        "value": 20,
-        "type": "lineHeight"
-      },
-      "fontSize": {
-        "value": 12,
-        "type": "fontSize"
-      }
-    },
-    "smallBody": {
-      "fontFamily": {
-        "value": "Roboto",
-        "type": "fontFamily"
-      },
-      "fontWeight": {
-        "value": "Regular",
-        "type": "fontWeight"
-      },
-      "lineHeight": {
-        "value": 16,
-        "type": "lineHeight"
-      },
-      "fontSize": {
-        "value": 11,
-        "type": "fontSize"
-      }
+      "type": "typography",
+      "description": "test body font"
     }
   }
 }

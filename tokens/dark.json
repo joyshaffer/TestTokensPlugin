@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "background": {
+      "value": "#000000",
+      "type": "color",
+      "description": "Dark mode background color"
+    },
+    "text": {
+      "value": "#E91E69",
+      "type": "color",
+      "description": "Dark mode text color"
+    },
+    "objects": {
+      "value": "#57DCBE",
+      "type": "color",
+      "description": "Dark mode object color"
+    }
+  }
+}
